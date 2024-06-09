@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## About Md. Khurshed Alam Nayem
+
+[![Product Name Screen Shot][product-screenshot]](https://www.nayeem.dev)
+
+### Expertise On
+
+* [![Laravel][Laravel.com]][Laravel-url]
+* [![Vue][Vue.js]][Vue-url]
+* [![Next][Next.js]][Next-url]
+* [![React][React.js]][React-url]
+* [![Angular][Angular.io]][Angular-url]
+
