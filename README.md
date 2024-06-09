@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 [![Next][Next.js]][Next-url]
 [![React][React.js]][React-url]
 [![Angular][Angular.io]][Angular-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 [![Nayem][my-screenshot]](https://www.nayeem.dev)
 
@@ -44,7 +45,7 @@ Here are some ideas to get you started:
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![LinkedIn][linkedin-shield]][linkedin-url]
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
