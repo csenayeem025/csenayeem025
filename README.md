@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there ⭐⭐⭐⭐⭐
 
 <!--
 **csenayeem025/csenayeem025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 [Site](https://www.nayeem.dev)
 
-### Built With
+### Expertise On
 
 * [![Laravel][Laravel.com]][Laravel-url]
 * [![Vue][Vue.js]][Vue-url]
