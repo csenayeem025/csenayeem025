@@ -20,15 +20,13 @@ Here are some ideas to get you started:
 
 ## About Md. Khurshed Alam Nayem
 
-[![Nayem][my-screenshot]](https://www.nayeem.dev)
-
-### Expertise On
-
 [![Laravel][Laravel.com]][Laravel-url]
 [![Vue][Vue.js]][Vue-url]
 [![Next][Next.js]][Next-url]
 [![React][React.js]][React-url]
 [![Angular][Angular.io]][Angular-url]
+
+[![Nayem][my-screenshot]](https://www.nayeem.dev)
 
 <!-- PROJECT SHIELDS -->
 <!--
