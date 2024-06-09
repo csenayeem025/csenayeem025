@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ## About Md. Khurshed Alam Nayem
 
-[![Product Name Screen Shot][product-screenshot]](https://www.nayeem.dev)
+[Site](https://www.nayeem.dev)
 
-### Expertise On
+### Built With
 
 * [![Laravel][Laravel.com]][Laravel-url]
 * [![Vue][Vue.js]][Vue-url]
