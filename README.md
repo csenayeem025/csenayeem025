@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 
 ## About Md. Khurshed Alam Nayem
 
-[Site](https://www.nayeem.dev)
-
 [![Nayem][my-screenshot]](https://www.nayeem.dev)
 
 ### Expertise On
