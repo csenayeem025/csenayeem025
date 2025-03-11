@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 [![Nayem][my-screenshot]](https://www.nayeem.dev)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=csenayeem025&show_icons=true&locale=en&layout=compact" alt="Md Khurshed Alam Nayem" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=csenayeem025&show_icons=true&locale=en" alt="Md Khurshed Alam Nayem" /></p>
 
 <!-- PROJECT SHIELDS -->
 <!--
